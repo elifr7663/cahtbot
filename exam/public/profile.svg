@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Background Circle -->
+  <circle cx="150" cy="150" r="150" fill="#1976d2" opacity="0.1" />
+  
+  <!-- Outer Circle -->
+  <circle cx="150" cy="150" r="140" fill="none" stroke="#1976d2" stroke-width="4" />
+  
+  <!-- Head -->
+  <circle cx="150" cy="120" r="50" fill="#1976d2" opacity="0.8" />
+  
+  <!-- Body -->
+  <path d="M150,180 C100,180 60,220 60,270 L240,270 C240,220 200,180 150,180 Z" fill="#1976d2" opacity="0.8" />
+  
+  <!-- Code Symbol -->
+  <text x="150" y="330" font-family="monospace" font-size="220" text-anchor="middle" fill="#1976d2" opacity="0.2">&lt;/&gt;</text>
+</svg> 

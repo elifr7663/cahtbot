@@ -1,0 +1,351 @@
+[
+  {
+    "id": "new1",
+    "title": "Habil",
+    "messages": 2,
+    "timestamp": "about 23 hours ago",
+    "status": "new",
+    "category": "Allowance Inquiry",
+    "assignedTo": "nomina test"
+  },
+  {
+    "id": "active1",
+    "title": "Kane",
+    "messages": 3,
+    "timestamp": "about 23 hours ago",
+    "status": "active",
+    "category": "Tuition Inquiry",
+    "assignedTo": "You"
+  },
+  {
+    "id": "resolved1",
+    "title": "Dev070",
+    "messages": 5,
+    "timestamp": "3 days ago",
+    "status": "resolved",
+    "category": "Union Inquiry",
+    "assignedTo": "admin"
+  },
+  {
+    "id": "ash1005",
+    "title": "Ash 1005",
+    "messages": 5,
+    "timestamp": "8 hours ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1006",
+    "title": "Ash 1006",
+    "messages": 2,
+    "timestamp": "10 hours ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1007",
+    "title": "Ash 1007",
+    "messages": 3,
+    "timestamp": "12 hours ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1008",
+    "title": "Ash 1008",
+    "messages": 1,
+    "timestamp": "15 hours ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1009",
+    "title": "Ash 1009",
+    "messages": 2,
+    "timestamp": "18 hours ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1010",
+    "title": "Ash 1010",
+    "messages": 4,
+    "timestamp": "1 day ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1011",
+    "title": "Ash 1011",
+    "messages": 2,
+    "timestamp": "1 day ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1012",
+    "title": "Ash 1012",
+    "messages": 3,
+    "timestamp": "1 day ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1013",
+    "title": "Ash 1013",
+    "messages": 5,
+    "timestamp": "2 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1014",
+    "title": "Ash 1014",
+    "messages": 1,
+    "timestamp": "2 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1015",
+    "title": "Ash 1015",
+    "messages": 2,
+    "timestamp": "2 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1016",
+    "title": "Ash 1016",
+    "messages": 3,
+    "timestamp": "2 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1017",
+    "title": "Ash 1017",
+    "messages": 4,
+    "timestamp": "3 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1018",
+    "title": "Ash 1018",
+    "messages": 1,
+    "timestamp": "3 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1019",
+    "title": "Ash 1019",
+    "messages": 3,
+    "timestamp": "3 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "ash1020",
+    "title": "Ash 1020",
+    "messages": 2,
+    "timestamp": "3 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "john2001",
+    "title": "Mr.John",
+    "messages": 1,
+    "timestamp": "4 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "john2002",
+    "title": "Mr.John",
+    "messages": 3,
+    "timestamp": "4 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "john2003",
+    "title": "Mr.John",
+    "messages": 2,
+    "timestamp": "4 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "john2004",
+    "title": "Mr.John",
+    "messages": 4,
+    "timestamp": "5 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "john2005",
+    "title": "Mr.John",
+    "messages": 1,
+    "timestamp": "5 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "xman3001",
+    "title": "Mr.X",
+    "messages": 2,
+    "timestamp": "6 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "xman3002",
+    "title": "Mr.X",
+    "messages": 3,
+    "timestamp": "6 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "xman3003",
+    "title": "Mr.X",
+    "messages": 1,
+    "timestamp": "6 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "xman3004",
+    "title": "Mr.X",
+    "messages": 2,
+    "timestamp": "6 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "xman3005",
+    "title": "Mr.X",
+    "messages": 4,
+    "timestamp": "7 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4001",
+    "title": "Case A",
+    "messages": 2,
+    "timestamp": "7 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4002",
+    "title": "Case B",
+    "messages": 3,
+    "timestamp": "8 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4003",
+    "title": "Case C",
+    "messages": 1,
+    "timestamp": "8 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4004",
+    "title": "Case D",
+    "messages": 5,
+    "timestamp": "9 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4005",
+    "title": "Case E",
+    "messages": 2,
+    "timestamp": "9 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4006",
+    "title": "Case F",
+    "messages": 3,
+    "timestamp": "9 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4007",
+    "title": "Case G",
+    "messages": 4,
+    "timestamp": "10 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4008",
+    "title": "Case H",
+    "messages": 1,
+    "timestamp": "10 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4009",
+    "title": "Case I",
+    "messages": 3,
+    "timestamp": "10 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4010",
+    "title": "Case J",
+    "messages": 2,
+    "timestamp": "11 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4011",
+    "title": "Case K",
+    "messages": 4,
+    "timestamp": "11 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4012",
+    "title": "Case L",
+    "messages": 3,
+    "timestamp": "11 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4013",
+    "title": "Case M",
+    "messages": 2,
+    "timestamp": "12 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4014",
+    "title": "Case N",
+    "messages": 1,
+    "timestamp": "12 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4015",
+    "title": "Case O",
+    "messages": 2,
+    "timestamp": "13 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4016",
+    "title": "Case P",
+    "messages": 3,
+    "timestamp": "13 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4017",
+    "title": "Case Q",
+    "messages": 4,
+    "timestamp": "13 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4018",
+    "title": "Case R",
+    "messages": 5,
+    "timestamp": "14 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4019",
+    "title": "Case S",
+    "messages": 1,
+    "timestamp": "14 days ago",
+    "status": "resolved"
+  },
+  {
+    "id": "case4020",
+    "title": "Case T",
+    "messages": 2,
+    "timestamp": "14 days ago",
+    "status": "resolved"
+  }
+]
